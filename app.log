@@ -1,0 +1,5 @@
+2025-04-07 09:54:04,093 - INFO - File uploaded: amsterdam-modern-resume-template.pdf
+2025-04-07 09:54:04,095 - INFO - Reading PDF file for text extraction.
+2025-04-07 09:54:04,188 - INFO - PDF text extraction successful.
+2025-04-07 09:54:04,189 - INFO - Sending resume and job description to the model.
+2025-04-07 09:54:15,006 - INFO - Resume analysis received successfully.
