@@ -5,7 +5,7 @@ import pytesseract
 import requests
 import logging
 
-API_TOKEN = "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"
+API_TOKEN = ""
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.1"
 HEADERS = {"Authorization": f"Bearer {API_TOKEN}"}
 
